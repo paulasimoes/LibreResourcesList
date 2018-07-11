@@ -1,11 +1,5 @@
 # Libre Resources List
 
+This is a list of libre/free (as in freedom) resources.
 
-## Fonts
-Josefin Sans - https://www.fontsquirrel.com/fonts/josefin-sans **License:** SIL Open Font License v1.10
-
-## Note Taking
-Simplenote - https://simplenote.com **License:** GNU General Public License v2.0
-
-## Reference Management
-Zotero - https://www.zotero.org **License:** GNU Affero General Public License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
